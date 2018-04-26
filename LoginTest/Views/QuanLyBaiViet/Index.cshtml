@@ -1,0 +1,98 @@
+﻿@model IEnumerable<LoginTest.Models.BaiViet>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TieuDe)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TomTatNoiDung)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AnhBia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayDang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayChinhSua)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NoiDung)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoLanXem)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TrangThaiBaiViet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TheLoai.TheLoai1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.HoTen)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TieuDe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TomTatNoiDung)
+            </td>
+            <td>
+                @if (item.AnhBia != null)
+                {
+                    var base64 = Convert.ToBase64String(item.AnhBia);
+                    var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                    <img src="@imgsrc" / >
+                }
+                else
+                {
+                    <img src="~/Content/images/0_1_1.jpg"
+                         style="max-width:100px;max-height:100px" / >
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayChinhSua)
+            </td>
+            <td>
+                @Html.Raw(item.NoiDung)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLanXem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThaiBaiViet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TheLoai.TheLoai1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.HoTen)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.C_idBaiViet }) |
+                @Html.ActionLink("Details", "Details", new { id = item.C_idBaiViet }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.C_idBaiViet })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,82 @@
+﻿@model LoginTest.Models.BaiViet
+
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="container">
+    @using (Html.BeginForm("Create", "QuanLyBaiViet", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal" style="margin-top:30px">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group">
+                <h5>@Html.Label("Thể loại", htmlAttributes: new { @class = "control-label col-md-2" }) </h5>
+                <div class="col-md-10">
+                    @Html.DropDownList("C_idTheLoai", null, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.C_idTheLoai, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <h5>
+                    @Html.Label("Tiêu đề", htmlAttributes: new { @class = "control-label col-md-2" })
+                </h5>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.TieuDe, new { htmlAttributes = new { @class = "form-control", @maxlength = "100" } })
+                    @Html.ValidationMessageFor(model => model.TieuDe, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group" row="5">
+                <h5>
+                    @Html.Label("Tóm tắt nội dung", htmlAttributes: new { @class = "control-label col-md-2" })
+                </h5>
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.TomTatNoiDung, 10, 40, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.TomTatNoiDung, "", new { @class = "text-danger" })
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                <h5>
+                    @Html.Label("Ảnh bìa", htmlAttributes: new { @class = "control-label col-md-2" })
+                </h5>
+                <div class="col-md-2">
+                    <h5><input type="file" id="aAnhBia" name="aAnhBia" /></h5>
+                </div>
+
+            </div>
+
+            <div class="form-group">
+                <h5>
+                    @Html.Label("Nội dung", htmlAttributes: new { @class = "control-label col-md-2" })
+                </h5>
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.NoiDung, new { htmlAttributes = new { @class = "form-control" }, id = "NoiDung" })
+                    @Html.ValidationMessageFor(model => model.NoiDung, "", new { @class = "text-danger" })
+                </div>
+                <script type="text/javascript">
+                    CKEDITOR.replace("NoiDung", {
+                        customConfig: "/Content/ckeditor/config.js"
+                    });
+                </script>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+</div>

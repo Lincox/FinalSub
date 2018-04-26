@@ -1,0 +1,59 @@
+﻿@*@model LoginTest.Models.BaiViet_BinhLuanViewModels*@
+
+@{
+//Layout = null;
+}
+@{
+    //IEnumerable<BinhLuan> lstComment = (IEnumerable<BinhLuan>)ViewBag.ListCM1;
+    IEnumerable<BinhLuan> lstComment = ViewBag.ListCM1 as IEnumerable<BinhLuan>;
+    IEnumerable<BinhLuan> lstComment2 = ViewBag.ListCM2 as IEnumerable<BinhLuan>;
+}
+
+
+
+@using LoginTest.Models;
+@model List<BaiViet>
+
+<div class="martop"></div>
+@foreach (var item in Model)
+{
+    <section class="detail">
+        <div class="detail__1">
+
+            @if (item.AnhBia != null)
+            {
+                var base64 = Convert.ToBase64String(item.AnhBia);
+                var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                <img class="scrop" src="@imgsrc" alt="avatar">
+            }
+            else
+            {
+                <a><img src="~/Content/images/t1.jpg" alt="" class="scrop"></a>
+            }
+
+            <h2 class="detail__title"><b>@item.TieuDe</b></h2>
+
+            @if (item.TrangThaiBaiViet == true)
+            {
+                <h6 class="detail__status">Đã chỉnh sửa vào @item.NgayChinhSua bởi <a href="HomeNguoiViet?idUser=@item.User.C_idUser">@item.User.HoTen</a></h6>
+            }
+            else
+            {
+                <h6 class="detail__status">Đăng vào @item.NgayDang bởi <a href="HomeNguoiViet?idUser=@item.User.C_idUser">@item.User.HoTen</a></h6>
+            }
+
+            @if (@Session["QuyenID"] != null && @Session["QuyenID"].ToString() == item.User.C_idUser.ToString())
+            {
+                <a style="display:inline-block;padding-right:10px">
+                    @Html.ActionLink("Chỉnh sửa", "Edit", "QuanLyBaiViet", new { id = item.C_idBaiViet }, new { @class = "btn btn-primary", @style = "font-size:100%" })
+                </a>
+                @Html.ActionLink("Xóa", "Delete", "QuanLyBaiViet", new { id = item.C_idBaiViet }, new { @class = "btn btn-danger", @style = "font-size:100%" })
+            }
+        </div>
+        <div class="detail__content">@Html.Raw(@item.NoiDung)</div>
+    </section>
+    <ul class="detail__comment">
+        <li>@Html.Partial("~/Views/NguoiViet/ThemBinhLuan.cshtml", new BinhLuan())</li>
+        <li>@Html.Action("CommentStyle1Partial", "NguoiViet", new { @idBaiViet = @item.C_idBaiViet })</li>
+    </ul>
+}

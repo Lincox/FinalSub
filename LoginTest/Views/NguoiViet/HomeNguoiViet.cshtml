@@ -1,0 +1,22 @@
+﻿@using LoginTest.Models;
+@model List<BaiViet>
+
+@{
+    IEnumerable<BaiViet> lstCB = (IEnumerable<BaiViet>)ViewBag.contentbelong;
+}
+<div class="martop"></div>
+@foreach (var item in Model.Take(1))
+{
+    <div class="userhome">
+        <img class="homeavatar" src="@item.User.Hinh" />
+        <span>@item.User.HoTen</span>
+        @if (@Session["QuyenID"] != null && @Session["QuyenID"].ToString() == item.User.C_idUser.ToString())
+        {
+            <a href="">@Html.ActionLink("Đăng Bài", "Create", "QuanLyBaiViet", null, new { @class = "btn btn-success", @style = "font-size:170%" })</a>
+            <a href="">@Html.ActionLink("Quản lý doanh thu", null, null, null, new { @class = "btn btn-warning", @style = "font-size:170%" })</a>
+        }
+    </div>
+}
+@Html.Partial("~/Views/BaiViet/PartialForHomeWriter.cshtml", lstCB)
+
+

@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link href="~/Content/css/shareyour.css" rel="stylesheet">
+    <link href="~/Content/css/common.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+    <section class="top01">
+        <ul class="clearfix">
+            <li class="top01__left">
+                <button class="sidebarBtn" onclick="on()">
+                    <span></span>
+                </button>
+                <a href="@Url.Action("Index", "Home")" class="top01__logo hidesp">
+                    <img alt="Widget View" src="@Url.Content("~/Content/images/logo.png")">
+                </a>
+
+                <a href="@Url.Action("Index", "Home")" class="top01__logo hide">
+                    <img alt="Widget View" src="@Url.Content("~/Content/images/logo2.png")">
+                </a>
+
+
+                <form action="" class="top01__form hidesp">
+                    <input type="text" id="search" name="search" placeholder="Search" class="top01__search">
+                    <button type="submit" class="top01__btn">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+                
+            </li>
+
+            <li class="top01__right">
+                <form class="hide"><i class="fa fa-search"></i></form>
+                @if (@Session["HoTen"] != null && @Session["QuyenID"] != null)
+                {
+                    <a class="top01__logged hidesp" href="@Url.Action("HomeNguoiViet","NguoiViet",new {@idUser = Session["QuyenID"]})">Xin Chào, @Session["HoTen"].ToString()</a>
+                    <a class="top01__logged hidesp" href="/Home/Logout"><span class="glyphicon glyphicon-log-out" style="font-size:0.8em;"></span></a>
+                }
+
+                @if (@Session["HoTen"] == null && @Session["QuyenID"] == null)
+                {
+                    <a href="/Home/LoginFacebook" class="top01__loggin hidesp">Đăng nhập</a>
+                    <a href="/Home/LoginFacebook" class="top01__sign hidesp">Đăng ký</a>
+                }
+            </li>
+        </ul>
+        <div class="sidebar">
+            <a href="@Url.Action("Index", "Home")" class="top01__logo">
+                <img alt="Widget View" src="@Url.Content("~/Content/images/logo_side.png")" style="vertical-align:middle">
+            </a>
+            <ul>
+                <li><a href="@Url.Action("CongNghe","QuanLyTheLoai",new { @idTheLoai = 1})" class="news-icon"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>Công Nghệ</a></li>
+                <li><a href="@Url.Action("HocTap","QuanLyTheLoai",new { @idTheLoai = 2})" class="sub-icon"><span class="glyphicon glyphicon-home glyphicon-hourglass" aria-hidden="true"></span>Học Tập</a></li>
+            </ul>
+            <button class="sidebarBtn sidebarBtn--1"  onclick="off()">
+                <span></span>
+            </button>
+        </div>
+    </section>
+    <div class="sbody">
+        <div id="bodyoverlay" onclick="off()">
+        </div>
+        @RenderBody()
+    </div>
+
+    <script src="/Content/js/jquery-1.11.1.min.js"></script>
+    <script src="~/Content/js/scripts.js"></script>
+
+</body>
+</html>

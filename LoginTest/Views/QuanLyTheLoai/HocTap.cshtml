@@ -1,0 +1,12 @@
+﻿@using LoginTest.Models;
+@model IEnumerable<BaiViet>
+
+@{
+    IEnumerable<BaiViet> lstHT = (IEnumerable<BaiViet>)ViewBag.ListHT;
+}
+
+<div class="martop"></div>
+@Html.Partial("~/Views/BaiViet/BaiVietStyle3Partial.cshtml", lstHT)
+
+
+

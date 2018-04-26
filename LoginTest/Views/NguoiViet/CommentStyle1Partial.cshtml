@@ -1,0 +1,21 @@
+﻿@{
+    IEnumerable<BinhLuan> lstComment2 = ViewBag.ListCM2 as IEnumerable<BinhLuan>;
+}
+@using LoginTest.Models;
+@model IEnumerable<BinhLuan>
+
+@foreach (var item in Model.Take(4))
+{
+    <section class="detail__com">
+        <a href="@Url.Action("HomeNguoiViet","NguoiViet",new {@idUser = item.User.C_idUser})">
+            <img class="avacom" src="@item.User.Hinh"/>
+        </a>
+        <div class="combox">
+            <b style="color:#3658a6">@item.User.HoTen</b> @item.NoiDung
+            <h6>@item.ThoiDiemBinhLuan</h6>
+        </div>
+    </section>
+    @Html.Action("CommentStyle2Partial", "NguoiViet", new { @idBinhLuan = @item.C_idBinhLuan })
+    @Html.Action("ThemBinhLuanCap2", "NguoiViet", new { idBinhLuan1 = item.C_idBinhLuan })
+}
+

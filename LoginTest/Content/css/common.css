@@ -1,0 +1,238 @@
+/*-----------------------------------------------------------
+clearfix
+------------------------------------------------------------*/
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    height: 0;
+    visibility: hidden;
+    line-height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+/* exlude MacIE5 \*/
+* html .clearfix {
+    height: 1%;
+}
+
+.clearfix {
+    display: block;
+}
+
+/* end MacIE5 */
+/*-----------------------------------------------------------
+reset
+------------------------------------------------------------*/
+img {
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+    border: 0;
+}
+
+table img {
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+    border: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+ol, ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+input, textarea {
+    margin: 0;
+    font-size: 100%;
+    resize: none;
+    border: none;
+    background-image: none;
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 100%;
+}
+
+dl, dt, dd, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    /*font-size: 100%;*/
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, menu, nav, section, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+article, aside, dialog, figure, footer, header, hgroup, nav, section {
+    display: block;
+}
+
+    nav ul {
+        list-style: none;
+    }
+
+/*-----------------------------------------------------------
+Link
+------------------------------------------------------------*/
+a {
+    outline: none;
+    transition: 0.3s;
+}
+
+    a:link {
+        color: #444;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: #444;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #aaa;
+        text-decoration: none;
+    }
+
+    a:active {
+        color: #444;
+        text-decoration: none;
+    }
+
+/*-----------------------------------------------------------
+PAGE BOOT
+------------------------------------------------------------*/
+/* MovableType */
+div#pageBoot {
+    margin: 35px 0 60px 0;
+    text-align: center;
+}
+
+    div#pageBoot a {
+        color: #aaa;
+        text-decoration: none !important;
+    }
+
+/*-----------------------------------------------------------
+Body
+-------------------------------------------------------------*/
+body {
+    width: 100%;
+    color: black;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    letter-spacing: 0;
+    font-family: Roboto, arial, sans-serif;
+    font-size: 12px;
+    height: 100%;
+    word-break: break-word;
+}
+
+/*-----------------------------------------------------------
+ Container/Maincontent
+------------------------------------------------------------*/
+div.container {
+    width: 1000px;
+    height: auto;
+    padding: 0 30px;
+    margin: 0 auto 10px auto;
+}
+
+div.mainContent {
+    width: 700px;
+    height: auto;
+    margin: 0;
+    float: right;
+}
+
+/*-----------------------------------------------------------
+common
+------------------------------------------------------------*/
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    font-size: 0;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+
+*:hover {
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+
+
+#bodyoverlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+.hidesp {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+@media(max-width: 767px){
+    .hide {
+        display: block;
+    }
+
+    .hidesp {
+        display: none !important;
+    }
+}

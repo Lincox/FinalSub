@@ -1,0 +1,16 @@
+﻿@using LoginTest.Models;
+@model IEnumerable<BinhLuan>
+@foreach (var item in Model.Take(2))
+{
+    <section class="detail__rep">
+        <a href="@Url.Action("HomeNguoiViet","NguoiViet",new {@idUser = item.User.C_idUser})">
+            <img class="avacom" src="@item.User.Hinh" />
+        </a>
+        <div class="combox">
+            <b style="color:#3658a6">@item.User.HoTen</b> @item.NoiDung
+            <h6>@item.ThoiDiemBinhLuan</h6>
+        </div>
+    </section>
+
+
+}

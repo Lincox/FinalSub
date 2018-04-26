@@ -1,0 +1,40 @@
+﻿@using LoginTest.Models;
+@model IEnumerable<BaiViet>
+
+@foreach (var item1 in Model.Take(1))
+{
+    <div class="type">
+        <img src="~/Content/images/ico_right.gif">
+        <a href="@Url.Action("HocTap","QuanLyTheLoai",new { @idTheLoai = 2})">@item1.TheLoai.TheLoai1</a>
+    </div>
+}
+
+@foreach (var item in Model.Take(4))
+{
+    <ul class="partial partial--1">
+        <li class="partial__1">
+            @if (item.AnhBia != null)
+                {
+                    var base64 = Convert.ToBase64String(item.AnhBia);
+                    var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                <a href="@Url.Action("DetailBaiViet","NguoiViet",new { @idBaiViet = @item.C_idBaiViet })"><img src="@imgsrc" class="scrop" alt=""></a>
+            }
+            else
+            {
+                <a><img src="~/Content/images/t1.jpg" alt="" class="scrop"></a>
+            }
+        </li>
+
+        <li class="partial__2">
+            <p class="partial__title"><a href="@Url.Action("DetailBaiViet","NguoiViet",new { @idBaiViet = @item.C_idBaiViet })" class="title">@item.TieuDe</a></p>
+            <p class="partial__content"><a href="@Url.Action("DetailBaiViet","NguoiViet",new { @idBaiViet = @item.C_idBaiViet })" style="color:black">@item.TomTatNoiDung</a></p>
+            <div class="partial__name">
+                <a href="@Url.Action("HomeNguoiViet","NguoiViet",new {@idUser = item.User.C_idUser})"><img src="@item.User.Hinh"></a>
+                <a href="@Url.Action("HomeNguoiViet","NguoiViet",new {@idUser = item.User.C_idUser})">@item.User.HoTen</a>
+            </div>
+            <p class="partial__view">@item.SoLanXem 1000 views</p>
+        </li>
+    </ul>
+}
+<div class="clearfix"> </div>
+

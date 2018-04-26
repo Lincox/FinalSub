@@ -1,0 +1,1294 @@
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\ApplicationInsights.config
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\csc.exe
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\vbc.exe
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\LoginTest.dll.config
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\LoginTest.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\LoginTest.pdb
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Antlr3.Runtime.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\EntityFramework.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\EntityFramework.SqlServer.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.Web.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Newtonsoft.Json.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Owin.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Helpers.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Mvc.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Optimization.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Razor.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.WebPages.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\WebGrease.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.Web.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Helpers.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Mvc.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Optimization.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.Razor.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.WebPages.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Antlr3.Runtime.pdb
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Newtonsoft.Json.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\EntityFramework.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\EntityFramework.SqlServer.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\obj\Debug\LoginTest.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Facebook.dll
+D:\HOC_TAP\Project_MVC\LoginTest\LoginTest\bin\Facebook.xml
+E:\LoginTest\LoginTest\bin\ApplicationInsights.config
+E:\LoginTest\LoginTest\bin\roslyn\csc.exe
+E:\LoginTest\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LoginTest\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LoginTest\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LoginTest\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+E:\LoginTest\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\LoginTest\LoginTest\bin\roslyn\vbc.exe
+E:\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe
+E:\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+E:\LoginTest\LoginTest\bin\LoginTest.dll.config
+E:\LoginTest\LoginTest\bin\LoginTest.dll
+E:\LoginTest\LoginTest\bin\LoginTest.pdb
+E:\LoginTest\LoginTest\bin\Antlr3.Runtime.dll
+E:\LoginTest\LoginTest\bin\EntityFramework.dll
+E:\LoginTest\LoginTest\bin\EntityFramework.SqlServer.dll
+E:\LoginTest\LoginTest\bin\Facebook.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AI.Web.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+E:\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+E:\LoginTest\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+E:\LoginTest\LoginTest\bin\Newtonsoft.Json.dll
+E:\LoginTest\LoginTest\bin\Owin.dll
+E:\LoginTest\LoginTest\bin\System.Web.Helpers.dll
+E:\LoginTest\LoginTest\bin\System.Web.Mvc.dll
+E:\LoginTest\LoginTest\bin\System.Web.Optimization.dll
+E:\LoginTest\LoginTest\bin\System.Web.Razor.dll
+E:\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.dll
+E:\LoginTest\LoginTest\bin\System.Web.WebPages.dll
+E:\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.dll
+E:\LoginTest\LoginTest\bin\WebGrease.dll
+E:\LoginTest\LoginTest\bin\Facebook.xml
+E:\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\LoginTest\LoginTest\bin\Microsoft.AI.Web.xml
+E:\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+E:\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.xml
+E:\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LoginTest\LoginTest\bin\System.Web.Helpers.xml
+E:\LoginTest\LoginTest\bin\System.Web.Mvc.xml
+E:\LoginTest\LoginTest\bin\System.Web.Optimization.xml
+E:\LoginTest\LoginTest\bin\System.Web.Razor.xml
+E:\LoginTest\LoginTest\bin\System.Web.WebPages.xml
+E:\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.xml
+E:\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.xml
+E:\LoginTest\LoginTest\bin\Antlr3.Runtime.pdb
+E:\LoginTest\LoginTest\bin\Newtonsoft.Json.xml
+E:\LoginTest\LoginTest\bin\EntityFramework.xml
+E:\LoginTest\LoginTest\bin\EntityFramework.SqlServer.xml
+E:\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+E:\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\LoginTest\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+E:\LoginTest\LoginTest\obj\Debug\LoginTest.dll
+E:\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\ApplicationInsights.config
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\csc.exe
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\vbc.exe
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\LoginTest.dll.config
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\LoginTest.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\LoginTest.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Antlr3.Runtime.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\EntityFramework.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\EntityFramework.SqlServer.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Facebook.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.Web.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Newtonsoft.Json.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Owin.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Helpers.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Mvc.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Optimization.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Razor.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.WebPages.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\WebGrease.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Facebook.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.Web.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Helpers.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Mvc.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Optimization.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.Razor.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.WebPages.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Antlr3.Runtime.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Newtonsoft.Json.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\EntityFramework.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\EntityFramework.SqlServer.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\obj\Debug\LoginTest.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\CKFinder.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\LoginTest\LoginTest\bin\CKFinder.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\ApplicationInsights.config
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\csc.exe
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\vbc.exe
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\LoginTest.dll.config
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\LoginTest.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\LoginTest.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Antlr3.Runtime.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\CKFinder.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.SqlServer.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Facebook.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.Web.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Newtonsoft.Json.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Owin.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Helpers.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Mvc.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Optimization.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Razor.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\WebGrease.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\CKFinder.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Facebook.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.Web.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Helpers.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Mvc.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Optimization.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Razor.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Antlr3.Runtime.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Newtonsoft.Json.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.SqlServer.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\ApplicationInsights.config
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\csc.exe
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\vbc.exe
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\LoginTest.dll.config
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\LoginTest.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\LoginTest.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Antlr3.Runtime.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\CKFinder.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.SqlServer.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Facebook.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.Web.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Newtonsoft.Json.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Owin.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Helpers.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Mvc.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Optimization.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Razor.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\WebGrease.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\CKFinder.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Facebook.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.Web.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Helpers.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Mvc.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Optimization.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.Razor.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Antlr3.Runtime.pdb
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Newtonsoft.Json.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\EntityFramework.SqlServer.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.dll
+G:\Learning\4th year\1st semester\Tiểu luận chuyên ngành\Git\TieuLuanChuyenNganh_WebContent\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\ApplicationInsights.config
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\csc.exe
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\vbc.exe
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\LoginTest.dll.config
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\LoginTest.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\LoginTest.pdb
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Antlr3.Runtime.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\CKFinder.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\EntityFramework.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\EntityFramework.SqlServer.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Facebook.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.Web.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Newtonsoft.Json.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Owin.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Helpers.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Mvc.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Optimization.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Razor.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.WebPages.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\WebGrease.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\CKFinder.pdb
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Facebook.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.Web.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Helpers.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Mvc.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Optimization.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.Razor.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.WebPages.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Antlr3.Runtime.pdb
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Newtonsoft.Json.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\EntityFramework.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\EntityFramework.SqlServer.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\obj\Debug\LoginTest.dll
+C:\Users\luuhoangbac\Documents\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\ApplicationInsights.config
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\csc.exe
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\vbc.exe
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\LoginTest.dll.config
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\LoginTest.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\LoginTest.pdb
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Antlr3.Runtime.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\CKFinder.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\EntityFramework.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\EntityFramework.SqlServer.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Facebook.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.Web.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Newtonsoft.Json.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Owin.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Helpers.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Mvc.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Optimization.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Razor.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.WebPages.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\WebGrease.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\CKFinder.pdb
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Facebook.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.Web.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Helpers.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Mvc.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Optimization.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.Razor.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.WebPages.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Antlr3.Runtime.pdb
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Newtonsoft.Json.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\EntityFramework.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\EntityFramework.SqlServer.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\obj\Debug\LoginTest.dll
+C:\Users\luuhoangbac\Documents\LoginTest_Bac\LoginTest\obj\Debug\LoginTest.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\ApplicationInsights.config
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\csc.exe
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\vbc.exe
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\VBCSCompiler.exe
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\LoginTest.dll.config
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\LoginTest.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\LoginTest.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Antlr3.Runtime.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\CKFinder.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\EntityFramework.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\EntityFramework.SqlServer.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Facebook.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.Web.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.ApplicationInsights.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Newtonsoft.Json.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Owin.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Helpers.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Mvc.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Optimization.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Razor.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.WebPages.Deployment.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.WebPages.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.WebPages.Razor.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\WebGrease.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\CKFinder.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Facebook.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.Web.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.ApplicationInsights.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Helpers.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Mvc.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Optimization.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.Razor.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.WebPages.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.WebPages.Deployment.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\System.Web.WebPages.Razor.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Antlr3.Runtime.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Newtonsoft.Json.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\EntityFramework.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\EntityFramework.SqlServer.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\obj\Debug\LoginTest.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\Bac20171221\LoginTest\obj\Debug\LoginTest.pdb
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\ApplicationInsights.config
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\csc.exe
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\vbc.exe
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\VBCSCompiler.exe
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\LoginTest.dll.config
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\LoginTest.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\LoginTest.pdb
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Antlr3.Runtime.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\CKFinder.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\EntityFramework.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\EntityFramework.SqlServer.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Facebook.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.Web.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.ApplicationInsights.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Newtonsoft.Json.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Owin.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Helpers.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Mvc.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Optimization.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Razor.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.WebPages.Deployment.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.WebPages.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.WebPages.Razor.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\WebGrease.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\CKFinder.pdb
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Facebook.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.Web.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.ApplicationInsights.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Helpers.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Mvc.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Optimization.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.Razor.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.WebPages.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.WebPages.Deployment.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\System.Web.WebPages.Razor.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Antlr3.Runtime.pdb
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Newtonsoft.Json.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\EntityFramework.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\EntityFramework.SqlServer.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HOC_TAP\Project_MVC\Login\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+D:\HOC_TAP\Project_MVC\Login\LoginTest\obj\Debug\LoginTest.dll
+D:\HOC_TAP\Project_MVC\Login\LoginTest\obj\Debug\LoginTest.pdb
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\ApplicationInsights.config
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\csc.exe
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\vbc.exe
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\LoginTest.dll.config
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\LoginTest.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\LoginTest.pdb
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Antlr3.Runtime.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\CKFinder.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\EntityFramework.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\EntityFramework.SqlServer.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Facebook.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.Web.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Newtonsoft.Json.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Owin.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Helpers.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Mvc.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Optimization.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Razor.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.WebPages.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\WebGrease.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\CKFinder.pdb
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Facebook.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.Web.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Helpers.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Mvc.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Optimization.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.Razor.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.WebPages.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Antlr3.Runtime.pdb
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Newtonsoft.Json.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\EntityFramework.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\EntityFramework.SqlServer.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\obj\Debug\LoginTest.dll
+C:\Users\luuhoangbac\Documents\23122017\LoginTest\obj\Debug\LoginTest.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\ApplicationInsights.config
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\csc.exe
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\vbc.exe
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\LoginTest.dll.config
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\LoginTest.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\LoginTest.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Antlr3.Runtime.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\CKFinder.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.SqlServer.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Facebook.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.Web.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.ApplicationInsights.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Newtonsoft.Json.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Owin.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Helpers.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Mvc.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Optimization.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Razor.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Deployment.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Razor.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\WebGrease.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\CKFinder.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Facebook.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.Web.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.ApplicationInsights.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Helpers.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Mvc.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Optimization.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Razor.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Deployment.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Razor.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Antlr3.Runtime.pdb
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Newtonsoft.Json.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.SqlServer.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\obj\Debug\LoginTest.dll
+G:\Learning\GitHub\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\obj\Debug\LoginTest.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\ApplicationInsights.config
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\csc.exe
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\vbc.exe
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\LoginTest.dll.config
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\LoginTest.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\LoginTest.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Antlr3.Runtime.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\CKFinder.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.SqlServer.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Facebook.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.Web.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.ApplicationInsights.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Newtonsoft.Json.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Owin.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Helpers.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Mvc.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Optimization.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Razor.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Deployment.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Razor.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\WebGrease.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\CKFinder.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Facebook.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.Web.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.ApplicationInsights.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Helpers.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Mvc.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Optimization.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.Razor.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Deployment.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\System.Web.WebPages.Razor.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Antlr3.Runtime.pdb
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Newtonsoft.Json.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\EntityFramework.SqlServer.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\obj\Debug\LoginTest.dll
+D:\HOC_TAP\Tieu_Luan\TieuLuanChuyenNganh_WebContent\23122017\LoginTest\obj\Debug\LoginTest.pdb
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\ApplicationInsights.config
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\csc.exe
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\vbc.exe
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\LoginTest.dll.config
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\LoginTest.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\LoginTest.pdb
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Antlr3.Runtime.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\CKFinder.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\EntityFramework.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\EntityFramework.SqlServer.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Facebook.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.Web.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.ApplicationInsights.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Newtonsoft.Json.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Owin.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Helpers.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Mvc.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Optimization.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Razor.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.WebPages.Deployment.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.WebPages.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.WebPages.Razor.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\WebGrease.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\CKFinder.pdb
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Facebook.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.Web.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.ApplicationInsights.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Helpers.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Mvc.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Optimization.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.Razor.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.WebPages.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.WebPages.Deployment.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\System.Web.WebPages.Razor.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Antlr3.Runtime.pdb
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Newtonsoft.Json.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\EntityFramework.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\EntityFramework.SqlServer.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\obj\Debug\LoginTest.dll
+D:\HOC_TAP\Project_MVC\23122017\LoginTest\obj\Debug\LoginTest.pdb
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\ApplicationInsights.config
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\csc.exe
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\vbc.exe
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\LoginTest.dll.config
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\LoginTest.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\LoginTest.pdb
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Antlr3.Runtime.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\CKFinder.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\EntityFramework.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\EntityFramework.SqlServer.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Facebook.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.Web.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.ApplicationInsights.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Newtonsoft.Json.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Owin.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Helpers.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Mvc.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Optimization.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Razor.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.WebPages.Deployment.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.WebPages.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.WebPages.Razor.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\WebGrease.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\CKFinder.pdb
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Facebook.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.Web.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.ApplicationInsights.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Helpers.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Mvc.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Optimization.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.Razor.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.WebPages.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.WebPages.Deployment.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\System.Web.WebPages.Razor.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Antlr3.Runtime.pdb
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Newtonsoft.Json.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\EntityFramework.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\EntityFramework.SqlServer.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\obj\Debug\LoginTest.dll
+D:\HOC_TAP\Tieu_Luan\23122017\23122017\LoginTest\obj\Debug\LoginTest.pdb
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\ApplicationInsights.config
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\csc.exe
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\vbc.exe
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\LoginTest.dll.config
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\LoginTest.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\LoginTest.pdb
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Antlr3.Runtime.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\CKFinder.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\EntityFramework.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\EntityFramework.SqlServer.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Facebook.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.Web.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Newtonsoft.Json.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Owin.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Helpers.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Mvc.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Optimization.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Razor.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.WebPages.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\WebGrease.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\CKFinder.pdb
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Facebook.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.Web.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Helpers.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Mvc.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Optimization.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.Razor.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.WebPages.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Antlr3.Runtime.pdb
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Newtonsoft.Json.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\EntityFramework.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\EntityFramework.SqlServer.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\obj\Debug\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\obj\Debug\LoginTest.dll
+C:\Users\luuhoangbac\Desktop\23122017\LoginTest\obj\Debug\LoginTest.pdb
