@@ -6,10 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,300i,400,700">
+
     <link href="~/Content/css/shareyour.css" rel="stylesheet">
     <link href="~/Content/css/common.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body>
     <section class="top01">
@@ -59,6 +60,7 @@
                 <li><a href="@Url.Action("CongNghe","QuanLyTheLoai",new { @idTheLoai = 1})" class="news-icon"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>Công Nghệ</a></li>
                 <li><a href="@Url.Action("HocTap","QuanLyTheLoai",new { @idTheLoai = 2})" class="sub-icon"><span class="glyphicon glyphicon-home glyphicon-hourglass" aria-hidden="true"></span>Học Tập</a></li>
             </ul>
+            
             <button class="sidebarBtn sidebarBtn--1"  onclick="off()">
                 <span></span>
             </button>
@@ -70,7 +72,7 @@
         @RenderBody()
     </div>
 
-    <script src="/Content/js/jquery-1.11.1.min.js"></script>
+    <script src="~/Content/js/jquery-1.11.1.min.js"></script>
     <script src="~/Content/js/scripts.js"></script>
 
 </body>

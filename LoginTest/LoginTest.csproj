@@ -1325,6 +1325,7 @@
     <Content Include="Content\css\common.css" />
     <Content Include="Content\css\shareyour.css" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\images\ico_edit.png" />
     <Content Include="Content\images\ico_right.gif" />
     <Content Include="Content\images\Logo.png" />
     <Content Include="Content\images\LoGo1.png" />
@@ -1464,13 +1465,13 @@
     <Content Include="Views\QuanLyBaiViet\Index.cshtml" />
     <Content Include="Views\BaiViet\BaiVietStyle3Partial.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\QuanLyTheLoai\CongNghe.cshtml" />
     <Content Include="Views\BaiViet\PartialForHomeWriter.cshtml" />
-    <Content Include="Views\QuanLyTheLoai\HocTap.cshtml" />
     <Content Include="Views\NguoiViet\CommentStyle1Partial.cshtml" />
     <Content Include="Views\NguoiViet\CommentStyle2Partial.cshtml" />
     <Content Include="Views\NguoiViet\ThemBinhLuanCap2.cshtml" />
     <Content Include="Views\QuanLyBaiViet\Delete.cshtml" />
+    <Content Include="Views\QuanLyTheLoai\TheLoai.cshtml" />
+    <Content Include="Views\NguoiViet\Sidebar.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

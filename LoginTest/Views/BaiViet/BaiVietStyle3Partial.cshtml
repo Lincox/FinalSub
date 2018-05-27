@@ -1,27 +1,19 @@
 ﻿@using LoginTest.Models;
 @model IEnumerable<BaiViet>
 
-@foreach (var item1 in Model.Take(1))
-{
-    <div class="type">
-        <img src="~/Content/images/ico_right.gif">
-        <a>@item1.TheLoai.TheLoai1</a>
-    </div>
-}
-
 @foreach (var item in Model)
 {
-    <ul class="partial partial--1 partial--full">
+    <ul class="partial partial--1 partial--full forLM">
         <li class="partial__1">
             @if (item.AnhBia != null)
                 {
                     var base64 = Convert.ToBase64String(item.AnhBia);
                     var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
-                <a href="@Url.Action("DetailBaiViet","NguoiViet",new { @idBaiViet = @item.C_idBaiViet })"><img src="@imgsrc" class="scrop" alt=""></a>
+                <div class="img-wrapper"><a href="@Url.Action("DetailBaiViet","NguoiViet",new { @idBaiViet = @item.C_idBaiViet })"><img src="@imgsrc" class="scrop" alt=""></a></div>
             }
             else
             {
-                <a><img src="~/Content/images/t1.jpg" alt="" class="scrop"></a>
+                <div class="img-wrapper"><a><img src="~/Content/images/t1.jpg" alt="" class="scrop"></a></div>
             }
         </li>
 
@@ -36,3 +28,5 @@
         </li>
     </ul>
 }
+
+<div class="loadMore"><a href="#" id="loadMore">Load More</a></div>

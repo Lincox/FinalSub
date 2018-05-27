@@ -19,7 +19,6 @@ namespace LoginTest.Controllers
             var BaiViet = db.BaiViets.Where(x => x.C_idBaiViet == idBV).SingleOrDefault();
             var guser = db.BaiViets.ToList();
             return View(guser);
-            //return RedirectToAction("HomeNguoiViet");
         }
 
         //HomeNguoiViet
@@ -158,8 +157,11 @@ namespace LoginTest.Controllers
             db.BinhLuans.Add(BL1);
             db.SaveChanges();
             return RedirectToAction("DetailBaiViet", "NguoiViet", new { @idBaiViet = Session["DetailBV"] });
+        }
 
-
+        public ActionResult Sidebar()
+        {
+            return PartialView();
         }
 
 

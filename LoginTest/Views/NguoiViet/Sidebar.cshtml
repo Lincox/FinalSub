@@ -1,0 +1,12 @@
+﻿@using LoginTest.Models;
+@model IEnumerable<BaiViet>
+
+@foreach (var item1 in Model)
+{
+    <ul>
+        <li>
+            <a href="@Url.Action("HomeNguoiViet","NguoiViet",new { @idUser = @item1.User.C_idUser })"> <img src="@item1.User.Hinh"> @item1.User.HoTen</a>
+        </li>
+    </ul>
+
+}

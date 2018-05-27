@@ -1,39 +1,3 @@
-//(function() {
-//    "use strict";
-
-//    // custom scrollbar
-
-//    $("html").niceScroll({styler:"fb",cursorcolor:"#4a9cfd", cursorwidth: '6', cursorborderradius: '10px', background: '#FFFFFF', spacebarenabled:false, cursorborder: '0',  zindex: '1000'});
-
-//    $(".scrollbar1").niceScroll({styler:"fb",cursorcolor:"#4a9cfd", cursorwidth: '6', cursorborderradius: '0',autohidemode: 'false', background: '#FFFFFF', spacebarenabled:false, cursorborder: '0'});
-
-	
-	
-//    $(".scrollbar1").getNiceScroll();
-//    if ($('body').hasClass('scrollbar1-collapsed')) {
-//        $(".scrollbar1").getNiceScroll().hide();
-//    }
-
-//})(jQuery);
-
-//(function() {
-//    "use strict";
-
-//    // custom scrollbar
-
-//    $("html").niceScroll({styler:"fb",cursorcolor:"#e53238", cursorwidth: '6', cursorborderradius: '10px', background: '#FFFFFF', spacebarenabled:false, cursorborder: '0',  zindex: '1000'});
-
-//    $(".scrollbar1").niceScroll({styler:"fb",cursorcolor:"#e53238", cursorwidth: '6', cursorborderradius: '0',autohidemode: 'false', background: '#FFFFFF', spacebarenabled:false, cursorborder: '0'});
-
-	
-	
-//    $(".scrollbar1").getNiceScroll();
-//    if ($('nav.gn-menu-wrapper').hasClass('scrollbar1-collapsed')) {
-//        $(".scrollbar1").getNiceScroll().hide();
-//    }
-
-//})(jQuery);
-
 $(document).ready(function () {
    
     $('.sidebarBtn, #bodyoverlay').click(function () {
@@ -63,7 +27,38 @@ function textAreaAdjust(o) {
     }, 1);
 }
 
+$(function () {
+    $(".forLM").slice(0, 4).css('display', 'inline-block');
+    if ($(".forLM:hidden").length == 0) {
+        $("#loadMore").css('display', 'none');
+    }
+    $("#loadMore").on('click', function (e) {
+        e.preventDefault();
+        $(".forLM:hidden").slice(0, 4).css('display', 'inline-block');
+        if ($(".forLM:hidden").length == 0) {
+            $("#loadMore").fadeOut('slow');
+        }
+        $('html,body').animate({
+            scrollTop: $(this).offset().top
+        }, 1500);
+    });
+});
 
+
+$('a[href=#top]').click(function () {
+    $('body,html').animate({
+        scrollTop: 0
+    }, 600);
+    return false;
+});
+
+$(window).scroll(function () {
+    if ($(this).scrollTop() > 50) {
+        $('.totop a').fadeIn();
+    } else {
+        $('.totop a').fadeOut();
+    }
+});
 
                      
      

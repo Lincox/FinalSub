@@ -5,18 +5,16 @@
 @using (Html.BeginForm("ThemBinhLuan", "NguoiViet", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
-
-    <section class="detail__addcom clearfix">
-        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-
-
-        @*<span>Bình luận</span>*@
-
-        @*<img class="text-center" src="model => model._idUserDoc" width="40" height="40" style="border-radius:50%; margin-bottom: 10px; margin-top: 10px;" />*@
-        @Html.TextAreaFor(model => model.NoiDung, new { @class = "stextarea", @rows = 1, @placeholder="Thêm bình luận...", @onkeyup="textAreaAdjust(this)" })
-        @Html.ValidationMessageFor(model => model.NoiDung, "", new { @class = "text-danger", style="font-size: 50px" })
+    if (@Session["HoTen"] != null && @Session["QuyenID"] != null)
+    {
+        <section class="detail__addcom clearfix">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
 
-        <input type="submit" value="NHẬN XÉT" class="send"/>
-    </section>
+            @Html.TextAreaFor(model => model.NoiDung, new { @class = "stextarea", @rows = 1, @placeholder = "Thêm bình luận...", @onkeyup = "textAreaAdjust(this)" })
+            @Html.ValidationMessageFor(model => model.NoiDung, "", new { @class = "text-danger", style = "font-size: 50px" })
+
+            <input type="submit" value="NHẬN XÉT" class="send" />
+        </section>
+    }
 }

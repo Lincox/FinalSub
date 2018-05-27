@@ -17,49 +17,73 @@ namespace LoginTest.Controllers
         {
             // Lan luot tao cac viewbag de lay list san pham tu co so du lieu
             //List Công nghệ  
-            var lstCN = db.BaiViets.Where(n => n.C_idTheLoai == 1).ToList();
-            // Gán vào Viewbag
-            ViewBag.ListCN = lstCN;
+            //var lstCN = db.BaiViets.Where(n => n.C_idTheLoai == 1).ToList();
+            //// Gán vào Viewbag
+            //ViewBag.ListCN = lstCN;
 
-            //List Học Tập 
-            var lstHT = db.BaiViets.Where(n => n.C_idTheLoai == 2).ToList();
-            // Gán vào Viewbag
-            ViewBag.ListHT = lstHT;
+            ////List Học Tập 
+            //var lstHT = db.BaiViets.Where(n => n.C_idTheLoai == 2).ToList();
+            //// Gán vào Viewbag
+            //ViewBag.ListHT = lstHT;
 
-            //List Thủ Thuật 
-            var lstTT = db.BaiViets.Where(n => n.C_idTheLoai == 3).ToList();
+            ////List Thủ Thuật 
+            //var lstTT = db.BaiViets.Where(n => n.C_idTheLoai == 3).ToList();
+            //// Gán vào Viewbag
+            //ViewBag.ListTT = lstTT;
+
+            //var ttl = //from idttl in db.BaiViets
+            //          from namettl in db.TheLoais
+            //          where namettl.C_idTheLoai == 1
+            //          select namettl.TheLoai1;
+
+            //ViewBag.tit = ttl;
+
+            //return View();
+
+            // Lan luot tao cac viewbag de lay list san pham tu co so du lieu
+            //Bắc
+            var bac = db.BaiViets.Where(n => n.C_idUserDang == "1673163692749228").ToList();
             // Gán vào Viewbag
-            ViewBag.ListTT = lstTT;
+            ViewBag.Bac = bac;
+
+            //Thắng
+            var thang = db.BaiViets.Where(n => n.C_idUserDang == "2057322144407091").ToList();
+            // Gán vào Viewbag
+            ViewBag.Thang = thang;
+
+            //Thắng
+            var tuan = db.BaiViets.Where(n => n.C_idUserDang == "180770409151334").ToList();
+            // Gán vào Viewbag
+            ViewBag.Tuan = tuan;
+
+            var ttl = //from idttl in db.BaiViets
+                      from namettl in db.TheLoais
+                      where namettl.C_idTheLoai == 1
+                      select namettl.TheLoai1;
+
+            ViewBag.tit = ttl;
 
             return View();
-        }
-        //public ActionResult Comment(string idBV)
-        //{
-        //    var lstComment = db.BinhLuans.Where(x => x.C_idBaiViet == idBV).ToList();
-        //    ViewBag.ListCM1 = lstComment;
-        //    return RedirectToAction("DetailBaiViet");
-        //}
-        //public User GetById(string Usename)
-        //{
-        //    return db.Users.SingleOrDefault(x => x.Usename == Usename);
-        //}
 
-        /// <summary>
-        /// dự phòng
-        /// </summary>
-        //public ActionResult HomeNguoiViet(int? UserName)
-        //{
-        //    //var user = db.Users.Where(x => x.Id == id).SingleOrDefault();
-        //    var guser = db.Users.Where(x => x.Quyen == 4).SingleOrDefault();
-        //    if (guser != null)
-        //    {
-        //        return View();
-        //        //return Redirect("/");
-        //    }
-        //    //var guser = db.Users.ToList();
-        //    // return View();
-        //    return Redirect("/");
-        //}
+            //List<object> myModel = new List<object>();
+            //myModel.Add(db.Users.ToList());
+            //myModel.Add(db.BaiViets.ToList());
+
+            //var BaiViet = db.BaiViets.Where(x => x.C_idUserDang == idUser).ToList();
+            //ViewBag.contentbelong = BaiViet;
+
+            //User guser = db.Users.SingleOrDefault(n => n.C_idUser == idUser);
+
+            ////if (guser.Quyen == "3")
+            ////var guser = db.Users.Where(x => x.Quyen == "4").SingleOrDefault();
+
+            //if (guser.Quyen == 4 || guser.Quyen == 5)
+            //{
+            //    return View(BaiViet);
+            //}
+
+            //return Redirect("/");
+        }
 
 
         private Uri RedirectUri
@@ -87,8 +111,6 @@ namespace LoginTest.Controllers
                 response_type = "code",
                 scope = "email",
             });
-           // var urs = db.Users.Single(x => x.Usename == )
-           // Session["user"] = 
 
             return Redirect(loginUrl.AbsoluteUri);
         }
@@ -135,14 +157,11 @@ namespace LoginTest.Controllers
                         Session["UserName"] = user.Usename.ToString();
                         return RedirectToAction("Index", "Home");
                 }
-                //return RedirectToAction("AdminNhomNguoiDung2");
                 Session["UserName"] = user1.Usename.ToString();
                 Session["HoTen"] = user1.HoTen.ToString();
                 Session["QuyenID"] = user1.C_idUser.ToString();
 
                 return RedirectToAction("Index", "Home");
-                //return View();
-                // return Redirect("/");
 
 
             }

@@ -4,18 +4,22 @@
     ViewBag.Title = "Index";
 }
 @{
-    IEnumerable<BaiViet> lstCN = (IEnumerable<BaiViet>)ViewBag.ListCN;
-    IEnumerable<BaiViet> lstHT = ViewBag.ListHT as IEnumerable<BaiViet>;
-    IEnumerable<BaiViet> lstTT = ViewBag.ListTT as IEnumerable<BaiViet>;
+    IEnumerable<BaiViet> bac = (IEnumerable<BaiViet>)ViewBag.Bac;
+    IEnumerable<BaiViet> thang = ViewBag.Thang as IEnumerable<BaiViet>;
+    IEnumerable<BaiViet> tuan = ViewBag.Tuan as IEnumerable<BaiViet>;
 }
 
 <div class="martop"></div>
 <div class="ccontainer">
     <section class="top02">
-        @Html.Partial("~/Views/BaiViet/BaiVietStyle1Partial.cshtml", lstCN)
+        @Html.Partial("~/Views/BaiViet/BaiVietStyle1Partial.cshtml", bac);
     </section>
     <section class="top03">
-        @Html.Partial("~/Views/BaiViet/BaiVietStyle2Partial.cshtml", lstHT)
+        @Html.Partial("~/Views/BaiViet/BaiVietStyle2Partial.cshtml", thang);
+    </section>
+    <section class="top03">
+        @Html.Partial("~/Views/BaiViet/BaiVietStyle2Partial.cshtml", tuan);
     </section>
 </div>
+
 <!-- Just to make our placeholder images work. Don't actually copy the next line! -->

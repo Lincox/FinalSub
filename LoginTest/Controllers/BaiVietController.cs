@@ -56,17 +56,12 @@ namespace LoginTest.Controllers
         {
             return PartialView();
         }
-        //public ActionResult AddCommentPartial()
-        //{
-           
-        //    return PartialView();
-        //}
-
 
         public ActionResult Index()
         {
             return View();
         }
+
 
         
     }

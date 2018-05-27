@@ -1,0 +1,17 @@
+﻿@using LoginTest.Models;
+@model List<BaiViet>
+
+@{
+    IEnumerable<BaiViet> lstCB = (IEnumerable<BaiViet>)ViewBag.contentbelong;
+}
+<div class="martop"></div>
+
+<div class="type">
+    <img src="~/Content/images/ico_right.gif">
+    @foreach (var item in Model.Take(1))
+    {
+        @item.TheLoai.TheLoai1;
+    }
+</div>
+
+@Html.Partial("~/Views/BaiViet/BaiVietStyle3Partial.cshtml", lstCB)

@@ -11,22 +11,22 @@ namespace LoginTest.Controllers
     {
         Model1 db = new Model1();
 
-        // GET: QuanLyTheLoai
-        public ActionResult CongNghe()
+        public ActionResult TheLoai (int idTheLoai)
         {
-            var lstCN = db.BaiViets.Where(n => n.C_idTheLoai == 1).ToList();
-            // Gán vào Viewbag
-            ViewBag.ListCN = lstCN;
+            List<object> myModel = new List<object>();
+            myModel.Add(db.TheLoais.ToList());
+            myModel.Add(db.BaiViets.ToList());
 
-            return View();
-        }
+            TheLoai type = db.TheLoais.SingleOrDefault(n => n.C_idTheLoai == idTheLoai);
 
-        public ActionResult HocTap()
-        {
-            var lstHT = db.BaiViets.Where(n => n.C_idTheLoai == 2).ToList();
-            // Gán vào Viewbag
-            ViewBag.ListHT = lstHT;
-            return View();
+            if (type == null)
+            {
+                return Redirect("/");
+            }
+
+            var BaiViet = db.BaiViets.Where(x => x.C_idTheLoai == idTheLoai).ToList();
+            ViewBag.contentbelong = BaiViet;
+            return View(BaiViet);
         }
     }
 }

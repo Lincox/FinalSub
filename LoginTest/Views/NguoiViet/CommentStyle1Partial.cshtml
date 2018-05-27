@@ -14,8 +14,9 @@
             <b style="color:#3658a6">@item.User.HoTen</b> @item.NoiDung
             <h6>@item.ThoiDiemBinhLuan</h6>
         </div>
+        @Html.Action("CommentStyle2Partial", "NguoiViet", new { @idBinhLuan = @item.C_idBinhLuan })
+        @Html.Action("ThemBinhLuanCap2", "NguoiViet", new { idBinhLuan1 = item.C_idBinhLuan })
     </section>
-    @Html.Action("CommentStyle2Partial", "NguoiViet", new { @idBinhLuan = @item.C_idBinhLuan })
-    @Html.Action("ThemBinhLuanCap2", "NguoiViet", new { idBinhLuan1 = item.C_idBinhLuan })
+    
 }
 
